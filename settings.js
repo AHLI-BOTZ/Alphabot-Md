@@ -25,8 +25,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Kimz-Official" //namabot kalian
-global.ownername= "TOMZ-AHLIBOTZ" //nama kalian
+global.botname = "KYYYCOOL" //namabot kalian
+global.ownername= "KYYYGANTENG" //nama kalian
 global.myweb ="https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas
@@ -34,14 +34,14 @@ global.email = "tomzkimzxd86@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285806583988'] //premium user
-global.owner = ["6285806583988"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285806583988" // nomor wa kalian
+global.owner = ["6285806583988","6285811395565"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285811395565" // nomor wa kalian
 global.ownernomerr = "+6285806583988" //nmr wa kalian
-global.thumbnail = "./image/IMG-20220811-WA0002.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/IMG-20220724-WA0197.jpg" // foto donasi di folder image
+global.thumbnail = "./image/IMG-20220811-WA0005.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/IMG-20220811-WA0004.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = 'Kimz-Official' //sticker wm ubah
-global.author = 'Di Buat Oleh TomzAHLIBOTZ' //sticker wm ganti nama kalian
+global.packname = 'kyyycool' //sticker wm ubah
+global.author = 'Di Buat Oleh KYYYGANTENG' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
