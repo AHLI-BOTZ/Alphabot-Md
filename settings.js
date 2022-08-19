@@ -25,23 +25,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Cilz.Bot" //namabot kalian
-global.ownername= "CILZ" //nama kalian
+global.botname = "Kimz.Bot" //namabot kalian
+global.ownername= "KIMZ" //nama kalian
 global.myweb ="https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas
-global.email = "tomzkimzxd86@gmail.com" //bebas
+global.email = "kimzxd86@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285806583988'] //premium user
-global.owner = ["6285806583988","6287842090211","6285739663128"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6287842090211" // nomor wa kalian
-global.ownernomerr = "+6285739663128" //nmr wa kalian
-global.thumbnail = "./image/IMG-20220814-WA0026.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/IMG-20220814-WA0028.jpg" // foto donasi di folder image
+global.premium = ['6285851655841'] //premium user
+global.owner = ["6285851655841"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285851655841" // nomor wa kalian
+global.ownernomerr = "+6285851655841" //nmr wa kalian
+global.thumbnail = "./image/IMG-20220811-WA0002.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/Screenshot_20220724-114859_Gojek.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = 'Cilz.Bot' //sticker wm ubah
-global.author = 'Di Buat Oleh CILZ' //sticker wm ganti nama kalian
+global.packname = 'Kimz.Bot' //sticker wm ubah
+global.author = 'Di Buat Oleh KIMZ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
